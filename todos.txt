@@ -1,5 +1,4 @@
-Do the loundry.
-Return the books to the library.
+Return gift.
 Visit the new museum.
 Print the pictures.
 Fix the floor.
